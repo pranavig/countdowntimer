@@ -1,0 +1,13 @@
+.social-icons-group{
+    display: flex;
+    position: absolute;
+}
+
+.social-icons-group img {
+    height: 1.2em;
+    margin: 0.8em;
+}
+
+.social-icons-group img:hover{
+    filter: invert(44%) sepia(94%) saturate(1002%) hue-rotate(313deg) brightness(101%) contrast(98%);
+}
